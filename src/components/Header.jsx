@@ -22,9 +22,11 @@ export default function Header() {
 
         <nav>
           <ul className="flex items-center gap-8 text-sm font-medium text-black dark:text-white">
-            <li><Link to="/">About</Link></li>
-            <li><Link to="/courses">Courses</Link></li>
+            <li><Link to="/">Home</Link></li>
+            <li><Link to="/about">About</Link></li>
+            <li><Link to="/course">Course</Link></li>
             <li><Link to="/events">Events</Link></li>
+            <li><Link to="/eventslist">EventList</Link></li>
             <li><Link to="/blog">Blog</Link></li>
             <li><Link to="/contacts">Contacts.</Link></li>
           </ul>
@@ -35,8 +37,12 @@ export default function Header() {
             Get consultation
           </button>
 
-          <Link to="/login" className="text-sm text-black dark:text-white">
-            Log in / Register
+          <Link to="/signin" className="text-sm text-black dark:text-white">
+            Sign in
+          </Link>
+
+          <Link to="/sigup" className="text-sm text-black dark:text-white">
+            Sign up
           </Link>
         </div>
 
