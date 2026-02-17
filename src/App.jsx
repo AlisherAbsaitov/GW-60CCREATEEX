@@ -25,7 +25,7 @@ export default function App() {
         <Route path="/event" element={<Event />} />
         <Route path="/eventlist" element={<EventList />} />
         <Route path="/course" element={<Course />} />
-        <Route path="/sign" element={<SigIn />} />
+        <Route path="/signin" element={<SigIn />} />
         <Route path="/sigup" element={<SignUp />} />
         <Route path="/singlepost" element={<SingleProst />} />
       </Routes>
