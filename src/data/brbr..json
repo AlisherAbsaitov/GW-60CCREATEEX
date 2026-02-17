@@ -1,0 +1,75 @@
+[
+    {
+    "img":"/src/assets/www.svg",
+    "id": 1,
+    "category": "Marketing",
+    "title": "The Ultimate Google Ads Training Course",
+    "price": "$100",
+    "author": "rasm bor"
+    },
+        {
+    "img": "/src/assets/eee.svg",
+    "id": 2,
+    "category": "Management",
+    "title": "Product Management Fundamentals yahshi",
+    "price": "$480",
+    "author": "rasm bor"
+    },
+        {
+    "img": "/src/assets/rrr.svg",
+    "id": 3,
+    "category": "HR & Recruiting",
+    "title": "HR Management and Analytics yahshi ustoz",
+    "price": "$200",
+    "author": "rasm bor"
+    },
+        {
+    "img": "/src/assets/ttt.svg",
+    "id": 4,
+    "category": "Marketing",
+    "title": "Brand Management & PR Communications",
+    "price": "$530",
+    "author": "rasm bor"
+    },    
+    {
+    "img": "/src/assets/yyy.svg",
+    "id": 5,
+    "category": "Management",
+    "title": "Business Development Management yahshi ",
+    "price": "$400",
+    "author": "rasm bor"
+    },    
+    {
+    "img": "/src/assets/uuu.svg",
+    "id": 6,
+    "category": "Design",
+    "title": "Graphic Design Basic yahshi ustoz zor ss",
+    "price": "$500",
+    "author": "rasm bor"
+    },   
+     {
+    "img":"/src/assets/immage.svg",
+    "id": 7,
+    "category": "Development",
+    "title": "Highload Software Architecture",
+    "price": "$600",
+    "author": "rasm bor"
+    },   
+     {
+    "img":"/src/assets/imaage.svg",
+    "id": 8,
+    "category": "HR & Recruting",
+    "title": "Human Resources – Selection and Recruitment",
+    "price": "$150",
+    "author": "rasm bor"
+    },   
+     {
+    "img":"/src/assets/imagge.svg",
+    "id": 9,
+    "category": "Design",
+    "title": "User Experience. Human-centered Design",
+    "price": "$240",
+    "author": "rasm bor"
+    }
+
+]
