@@ -5,65 +5,71 @@ export default function App() {
       id: 1,
       category: "Marketing",
       title: "What is traffic arbitrage and does it really make money?",
-      image: "https://source.unsplash.com/600x400?illustration",
+      image: "src/assets/image.png",
     },
     {
       id: 2,
       category: "Development",
       title: "How to choose the first programming language for a beginner",
-      image: "https://source.unsplash.com/600x400?laptop",
+      image: "src/assets/image copy.png",
     },
     {
       id: 3,
       category: "Design",
       title: "Should you choose a creative profession?",
-      image: "https://source.unsplash.com/600x400?design",
+      image: "src/assets/image copy 2.png",
     },
     {
       id: 4,
       category: "HR",
       title: "HR statistics: job search, interviews, hiring and recruiting",
-      image: "https://source.unsplash.com/600x400?keyboard",
+      image: "src/assets/image copy 3.png",
     },
     {
       id: 5,
       category: "Management",
       title: "What to do and who to talk to if you want to get feedback",
-      image: "https://source.unsplash.com/600x400?idea",
+      image: "src/assets/image copy 4.png",
     },
     {
       id: 6,
       category: "Design",
       title: "What are color profiles and how they work in graphic design",
-      image: "https://source.unsplash.com/600x400?color",
+      image: "src/assets/image copy 5.png",
     },
     {
       id: 7,
       category: "Management",
       title: "Startup: how to build a team that will live longer than a year",
-      image: "https://source.unsplash.com/600x400?startup",
+      image: "src/assets/image copy 6.png",
     },
     {
       id: 8,
       category: "Marketing",
       title: "How to get customers to love your business from the start",
-      image: "https://source.unsplash.com/600x400?typewriter",
+      image: "src/assets/image copy 7.png",
     },
   ];
 
   return (
-    <div className="bg-gray-50 min-h-screen">
+    <div className="bg-gray-50 min-h-screen ">
 
       <header className="bg-white border-b">
         <div className="max-w-7xl mx-auto px-6 py-6">
           <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
-            <h1 className="text-2xl font-bold">
-              Createx School Journal
-            </h1>
+           <ul className=" gap-8 justify-center flex items-center"> 
+
+            <a href=""><li>All</li></a>
+        <a href=""><li> Articlase</li></a>
+           <a href=""> <li>Videos</li></a>
+           <a href=""> <li>Podcasts</li>
+           </a>
+            
+           </ul>
 
             <div className="flex items-center gap-4">
               <select className="border rounded-md px-3 py-2 text-sm">
-                <option>Blog category</option>
+               <p>salom</p>
               </select>
 
               <input
